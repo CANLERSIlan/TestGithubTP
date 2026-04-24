@@ -16,4 +16,4 @@ Via GitHub Pages (Settings > Pages)
 - `git add .` : ajouter tous les fichiers
 - `git commit -m "message"` : valider les changements
 - `git push origin main` : envoyer sur GitHub
-- `git pull origin main` : récupérer les changements
+- `git pull origin main` : récupérer les changements 
